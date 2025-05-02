@@ -22,13 +22,13 @@ Jupyter Notebook: Interactive coding and analysis
 
 
 
-## 📊 Data Source
+##  Data Source
 
 Dataset: Historical S&P 500 stock prices from NASDAQ.
 
 Data includes columns like Date, Close, Open, High, Low.
 
-📈 Technical Indicators
+ Technical Indicators
 
 This project implements the following indicators:
 
